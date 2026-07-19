@@ -13,7 +13,7 @@
 - 📊 Currently building skills in data cleaning, exploratory data analysis, and MIS reporting
 - 🔭 Actively looking for **Data Analyst Intern** roles
 - 🌱 Strengthening SQL and Excel-based analysis alongside my CS coursework (DSA, OOP, Java, JavaScript)
-- 📫 Reach me at: **[your email here]** | **[your LinkedIn here]**
+- 📫 Reach me at: **[abhishekchaudhari3663@gmail.com]** | **[https://www.linkedin.com/in/abhishekchaudhari1021/]**
 
 ---
 
