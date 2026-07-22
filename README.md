@@ -38,13 +38,19 @@ Data cleaning and exploratory data analysis using Python.
 
 ---
 
-### GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abhishekchaudhari21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abhishekchaudhari21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhishekchaudhari21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishekchaudhari21&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekchaudhari21&layout=compact&hide_border=true" />
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=Abhishekchaudhari21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishekchaudhari21&hide_border=true" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
