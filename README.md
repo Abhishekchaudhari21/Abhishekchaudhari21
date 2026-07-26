@@ -11,7 +11,7 @@
 
 - 🎓 B.Tech Computer Engineering, graduating 2027 (Maharashtra, India)
 - 📊 Currently building skills in data cleaning, exploratory data analysis, and MIS reporting
-- 🔭 Actively looking for **Data Analyst Intern** roles
+- 🔭 Actively looking for **Data Scientist** roles
 - 🌱 Strengthening SQL and Excel-based analysis alongside my CS coursework (DSA, OOP, Java, JavaScript)
 - 📫 Reach me at: **[abhishekchaudhari3663@gmail.com]** | **[https://www.linkedin.com/in/abhishekchaudhari1021/]**
 
