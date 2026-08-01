@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Abhishek Chaudhari </h1>
 <h3 align="center">B.Tech Computer Engineering student | Aspiring Data Scientist</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Scientist+Aspirant;SQL+%7C+Excel+%7C+Python+%7C+EDA;Open+to+Opportunities" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
